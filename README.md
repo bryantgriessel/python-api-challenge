@@ -1,4 +1,4 @@
-# python-api-challenge
+# python-api-challenge by Bryant Griessel
 Code can be found in the project_code folder.
 
 	Create a file named api_keys and with the following
